@@ -50,7 +50,7 @@ The primary goal of this project was to perform a detailed analysis of employee 
 For more details, refer to the attached data dictionary.
 
 ## Data Modeling
-📐 After EDA, a snowflake schema was chosen for the data model as it allowed for:
+After Exploratory Data Analysis, a snowflake schema was chosen for the data model as it allowed for:
 
 - Efficient normalization of related dimensions.
 - Simplified maintenance and flexibility for complex queries.
