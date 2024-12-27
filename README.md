@@ -1,4 +1,4 @@
-# HR Analytics Project: Data Camp Competition
+# HR Analytics Project
 
 ## Table of Contents
 1. [Introduction](#introduction)
