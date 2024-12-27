@@ -54,7 +54,7 @@ For more details, refer to the attached data dictionary.
 
 - Efficient normalization of related dimensions.
 - Simplified maintenance and flexibility for complex queries.
-
+![Data schema](dashboard/6.jpg) 
 The schema design includes fact and dimension tables linked appropriately to ensure a clear and logical representation of the data.
 
 ### DimDate Table
@@ -187,6 +187,7 @@ AVERAGEX(
 📊 Using Power BI, interactive dashboards were created to visualize key insights. Below is a detailed breakdown of each dashboard page:
 
 ### Page 1: Company Structure
+![Company Structure](dashboard/1.jpg) 
 - **Highlights**:
   - The company operates in the US, mainly in New York, California, and Illinois.
   - Total Employees: 1,470.
@@ -198,6 +199,7 @@ AVERAGEX(
 - **Placeholder for Screenshot**
 
 ### Page 2: Demographics Analysis
+![Demographics Analysis](dashboard/3.jpg) 
 - **Highlights**:
   - Gender Distribution: Nearly equal, with a 2.7% increase in female employees last year.
   - Ethnicity Breakdown:
@@ -211,6 +213,7 @@ AVERAGEX(
 - **Placeholder for Screenshot**
 
 ### Page 3: Attrition Rates
+![Attrition Rates](dashboard/2.jpg) 
 - **Highlights**:
   - Inactive Employees by Year:
     - Significant drops in attrition during 2015 (15 employees) and 2017 (11 employees).
@@ -223,6 +226,7 @@ AVERAGEX(
 - **Placeholder for Screenshot**
 
 ### Page 4: Employees Satisfaction
+![Employees Satisfaction](dashboard/4.jpg) 
 - **Highlights**:
   - Average Satisfaction Score: 3.54.
   - Illinois has the highest employee satisfaction.
@@ -232,6 +236,7 @@ AVERAGEX(
 - **Placeholder for Screenshot**
 
 ### Page 5: Satisfaction Levels and Performance Tracker
+![Satisfaction Levels and Performance Tracker](dashboard/5.jpg) 
 - **Highlights**:
   - Tool for HR to filter employees and view satisfaction and performance ratings over time.
   - Provides a comprehensive view of satisfaction trends and their impact on performance.
@@ -258,9 +263,3 @@ AVERAGEX(
 
 ## Conclusion
 🎯 This project underscores the importance of combining technical expertise with effective storytelling to derive actionable insights. The structured approach to data modeling, analysis, and visualization enabled comprehensive insights into workforce dynamics, contributing to a successful presentation that secured second place in the competition.
-
-## Attachments
-📎 **Attachments**:
-1. Data Dictionary
-2. Data Model Schema (**Placeholder for Screenshot**)
-3. Dashboard Screenshots (**Placeholders for Screenshots**)
