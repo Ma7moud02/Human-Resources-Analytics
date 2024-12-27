@@ -196,7 +196,7 @@ AVERAGEX(
   - Attrition Rate: 16.1%.
   - The company primarily works in tech and sales roles.
   - Steady growth over the past 10 years (2012-2023) indicates healthy organizational expansion.
-- **Placeholder for Screenshot**
+
 
 ### Page 2: Demographics Analysis
 ![Demographics Analysis](dashboard/3.jpg) 
@@ -210,7 +210,7 @@ AVERAGEX(
     - 19.65% (289 employees) are aged 30-39.
     - Hiring trends focus on younger age groups.
   - California has the highest employee concentration with 875 employees (59.5%).
-- **Placeholder for Screenshot**
+
 
 ### Page 3: Attrition Rates
 ![Attrition Rates](dashboard/2.jpg) 
@@ -223,7 +223,7 @@ AVERAGEX(
     - Clear link between low pay and high attrition in these roles.
   - Attrition Rate by Travel Frequency:
     - Frequent travelers exhibit the highest attrition rate (over 20%).
-- **Placeholder for Screenshot**
+
 
 ### Page 4: Employees Satisfaction
 ![Employees Satisfaction](dashboard/4.jpg) 
@@ -233,14 +233,14 @@ AVERAGEX(
   - Satisfaction dips for Native Hawaiian and Asian employees, raising equity concerns.
   - Declines in satisfaction metrics (environment, job, relationship satisfaction, and work-life balance) since 2016.
   - Scatter plot indicates satisfaction increases with tenure, suggesting the need for better engagement strategies for newer employees.
-- **Placeholder for Screenshot**
+
 
 ### Page 5: Satisfaction Levels and Performance Tracker
 ![Satisfaction Levels and Performance Tracker](dashboard/5.jpg) 
 - **Highlights**:
   - Tool for HR to filter employees and view satisfaction and performance ratings over time.
   - Provides a comprehensive view of satisfaction trends and their impact on performance.
-- **Placeholder for Screenshot**
+
 
 
 
