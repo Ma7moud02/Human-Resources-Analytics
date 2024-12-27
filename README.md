@@ -16,7 +16,6 @@
    - [Page 5: Satisfaction Levels and Performance Tracker](#page-5-satisfaction-levels-and-performance-tracker)
 8. [Insights and Analysis](#insights-and-analysis)
 9. [Conclusion](#conclusion)
-10. [Attachments](#attachments)
 
 ## Introduction
 This project involves a comprehensive analysis of employee data to derive actionable insights into workforce dynamics, satisfaction metrics, and attrition trends. Leveraging tools like Power BI and DAX, the project culminates in an interactive dashboard designed to support HR decision-making with key metrics and trends.
