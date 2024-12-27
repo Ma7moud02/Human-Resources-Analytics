@@ -196,7 +196,7 @@ AVERAGEX(
   - Attrition Rate: 16.1%.
   - The company primarily works in tech and sales roles.
   - Steady growth over the past 10 years (2012-2023) indicates healthy organizational expansion.
-
+---
 
 ### Page 2: Demographics Analysis
 ![Demographics Analysis](dashboard/3.jpg) 
@@ -211,7 +211,7 @@ AVERAGEX(
     - Hiring trends focus on younger age groups.
   - California has the highest employee concentration with 875 employees (59.5%).
 
-
+---
 ### Page 3: Attrition Rates
 ![Attrition Rates](dashboard/2.jpg) 
 - **Highlights**:
@@ -224,7 +224,7 @@ AVERAGEX(
   - Attrition Rate by Travel Frequency:
     - Frequent travelers exhibit the highest attrition rate (over 20%).
 
-
+---
 ### Page 4: Employees Satisfaction
 ![Employees Satisfaction](dashboard/4.jpg) 
 - **Highlights**:
@@ -234,7 +234,7 @@ AVERAGEX(
   - Declines in satisfaction metrics (environment, job, relationship satisfaction, and work-life balance) since 2016.
   - Scatter plot indicates satisfaction increases with tenure, suggesting the need for better engagement strategies for newer employees.
 
-
+---
 ### Page 5: Satisfaction Levels and Performance Tracker
 ![Satisfaction Levels and Performance Tracker](dashboard/5.jpg) 
 - **Highlights**:
